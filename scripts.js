@@ -39,6 +39,7 @@ const items = [
     { name: "Holographic Entertainment System", cost: 2_500_000 },
     { name: "Advanced Robot Butler", cost: 1_000_000 },
     { name: "Global Peace Initiative", cost: 300_000_000_000 },
+    { name: "Tiktok", cost: 25_000_000_000 },
 ];
 
 function displayItems() {
