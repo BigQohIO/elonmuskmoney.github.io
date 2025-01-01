@@ -1,2 +1,17 @@
-# elonmuskmoney.github.io
-Spend Elons Muney!!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spend Elon’s Fake Money</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Spend Elon’s Fake Money!</h1>
+        <div id="money">Money: $<span id="amount">429000000000</span></div>
+        <div id="items"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
